@@ -1,0 +1,33 @@
+body{
+    background-image: url('./img/starWars.jpeg');
+    font-family: arial;
+    
+    
+    
+}
+
+h3 {
+    color: rgb(242, 160, 87);
+}
+
+p {
+    color: rgb(13, 138, 166);
+}
+
+.card {
+    margin:  1% 30%;
+}
+
+.cardContent {
+    max-width: 70%;
+    background-color: rgb(13, 13, 13);
+    box-shadow: 0 4px 8px 0 rgb(140, 11, 35);
+    text-align: center;
+    padding: 20px 20px;
+}
+
+.cardContent img {
+    border-radius: 50%;
+    width:  100%;
+    height: auto;
+}
